@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+    <a href="https://github.com/ITAxReal">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=F7B665&center=true&vCenter=true&width=435&lines=ITAxReal"
+            alt="ITAxReal">
+    </a>
+</p>
 
-<!--
-**ITAxReal/itaxreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+             alt="Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://www.codewars.com/users/ITAxReal">
+        <img src="https://www.codewars.com/users/ITAxReal/badges/small" alt="">
+    </a>
+</p>
